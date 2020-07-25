@@ -1,1 +1,1 @@
-<img src="https://github.com/johnpeart/johnpeart/blob/master/header.svg" alt="Hello. I'm John Peart.">
+![Hello. I'm John Peart.](https://github.com/johnpeart/johnpeart/blob/master/header.svg)
